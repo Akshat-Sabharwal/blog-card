@@ -94,3 +94,9 @@ body {
 .profile > p {
   font-size: 1.3rem;
 }
+
+@media (max-width: 760px) {
+  body {
+    margin: 4rem;
+  }
+}
