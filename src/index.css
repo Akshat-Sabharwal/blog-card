@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Figtree";
+  src: url(./assets/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+  font-weight: 100 900;
+}
+
+:root {
+  /* Colors */
+
+  --bg-light: 0 0% 100%;
+  --bg-dark: 0 0% 0%;
+  --accent: 47, 89%, 63%;
+  --text-main: 0 0% 0%;
+  --text-sub: 0 0% 52%;
+
+  /* Fonts */
+  --fw-header: 700;
+  --fw-info: 600;
+  --fw-description: 400;
+
+  /* Misc. */
+  --radius: 1.9rem;
+}
